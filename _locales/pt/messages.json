@@ -1,0 +1,176 @@
+{
+	"extName": {
+		"message": "Private Bookmarks"
+	},
+	"extDesc": {
+		"message": "Guarde os seus favoritos, onde ninguém os possa ver!"
+	},
+	"welcome": {
+		"message": "Bem vindo aos seus favoritos privados"
+	},
+	"hintstart": {
+		"message": "Por favor, escolha uma palavra-passe para começar a utilizar os Favoritos Privados."
+	},
+	"password": {
+		"message": "Palavra-passe"
+	},
+	"confirmpassword": {
+		"message": "Confirmar palavra-passe"
+	},
+	"newpassword": {
+		"message": "Nova palavra-passe"
+	},
+	"currentpassword": {
+		"message": "Palavra-passe atual"
+	},
+	"submit": {
+		"message": "Submeter"
+	},
+	"hintlogin": {
+		"message": "Por favor introduza a sua palavra-passe para desbloquear."
+	},
+	"enter": {
+		"message": "Desbloquear"
+	},
+	"logout": {
+		"message": "Sair"
+	},
+	"password_changed": {
+		"message": "Palavra-passe modificada!"
+	},
+	"passwords_no_match": {
+		"message": "As palavras-passe não coicidem!"
+	},
+	"nomatch": {
+		"message": "As palavras-passe não correspondem"
+	},
+	"wrongpassword": {
+		"message": "Palavra-passe incorrecta!"
+	},
+	"hint": {
+		"message": "Dica"
+	},
+	"hintuse1": {
+		"message": "Clique com o botão do lado direito para adicionar aos favoritos privados"
+	},
+	"hintuse2": {
+		"message": "Arraste & largue os favoritos para os reordenar"
+	},
+	"deletebookmarks": {
+		"message": "Apagar favorito"
+	},
+	"deletebookmarks": {
+		"message": "Apagar favoritos"
+	},
+	"open": {
+		"message": "Abrir favorito numa nova janela"
+	},
+	"openincognito": {
+		"message": "Abrir favorito em modo anónimo"
+	},
+	"addbookmark": {
+		"message": "Adicionar aos favoritos privados"
+	},
+	"optionstitle": {
+		"message": "Opções | Private Bookmarks"
+	},
+	"warningtitle": {
+		"message": "Aviso!"
+	},
+	"warningmsg": {
+		"message": "Por favor, autentique-se antes de alterar alguma das opções."
+	},
+	"bookmarks": {
+		"message": "Favoritos"
+	},
+	"security": {
+		"message": "Segurança"
+	},
+	"settings": {
+		"message": "Definições"
+	},
+	"backup": {
+		"message": "Backup"
+	},
+	"initbackuphelp": {
+		"message": "Copie o bloco de text à esquerda para realizar uma cópia de segurança completa dos seus favoritos privados e guarde-o num local seguro. Os dados estão encriptados com a sua palavra-passe atual e esta será necessária para futuramente os poder recuperar."
+	},
+	"restore": {
+		"message": "Restaurar"
+	},
+	"initrestore": {
+		"message": "Restaurar"
+	},
+	"initrestorehelp": {
+		"message": "Cole o bloco de texto que copiou quando fez o backup para restaurar toda a sua informação. Depois disso, escreva a sua palavra-passe e clique em \"Restaurar\". Note: os seus favoritos atuais não serão perdidos."
+	},
+	"errorrestoretitle": {
+		"message": "Erro!"
+	},
+	"errorrestoremsg": {
+		"message": "Ocorreu um erro com o restauro. É o mesmo texto que copiou? Por favor tente novamente e se o problema persistir contacte-me."
+	},
+	"successrestoretitle": {
+		"message": "Sucesso!"
+	},
+	"successrestoremsg": {
+		"message": "Restaurou com sucesso toda a sua informação. Continue a desfrutar dos seus favoritos privados."
+	},
+	"selectall": {
+		"message": "Selecionar tudo"
+	},
+	"invertselection": {
+		"message": "Inverter seleção"
+	},
+	"askreset": {
+		"message": "Tem a certeza que pretende reiniciar a extensão e limpar todos os seus dados?"
+	},
+	"resetbtn": {
+		"message": "Reiniciar extensão"
+	},
+	"resetwarning": {
+		"message": "Esta ação irá eliminar toda a sua informação (favoritos privados, palavra-passe e definições). CUIDADO, esta ação é irreversível!"
+	},
+	"support": {
+		"message": "Suporte"
+	},
+	"name": {
+		"message": "Nome"
+	},
+	"url": {
+		"message": "URL"
+	},
+	"actions": {
+		"message": "Ações"
+	},
+	"delete": {
+		"message": "Eliminar"
+	},
+	"edit": {
+		"message": "Editar"
+	},
+	"save": {
+		"message": "Guardar"
+	},
+	"cancel": {
+		"message": "Cancelar"
+	},
+	"closetab": {
+		"message": "Fechar separador depois de adicionar aos favoritos privados"
+	},
+	"keyboardshortcut": {
+		"message": "Atalho de teclado"
+	},
+	"supportintroduction": {
+		"message": "Olá! O meu nome é João Magalhães e eu sou um programador web e android de 22 anos. Adoro desenvolver coisas para a web mas sou apenas um estudante por agora. Qualquer ajuda seria muito grata."
+	},
+	"supportsuggest": {
+		"message": "Pode até sugerir as suas prórias ideias para o Favoritos Privados :-)"
+	},
+	"supporthelp": {
+		"message": "Ajude o programador"
+	},
+	"reportbug": {
+		"message": "Informe algum erro ou peça ajuda"
+	}
+}

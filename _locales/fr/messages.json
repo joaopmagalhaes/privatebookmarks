@@ -1,0 +1,173 @@
+{
+	"extName": {
+		"message": "Private Bookmarks"
+	},
+	"extDesc": {
+		"message": "Save your websites, where no one can see them!"
+	},
+	"welcome": {
+		"message": "Bienvenue à vos signets privés"
+	},
+	"hintstart": {
+		"message": "S'il vous plaît, choisissez un mot de passe pour commencer à utiliser les signets privés."
+	},
+	"password": {
+		"message": "Mot de passe"
+	},
+	"confirmpassword": {
+		"message": "Confirmez mot de passe"
+	},
+	"newpassword": {
+		"message": "Nouveau mot de passe"
+	},
+	"currentpassword": {
+		"message": "Mot de passe actuel"
+	},
+	"submit": {
+		"message": "Soumettre"
+	},
+	"hintlogin": {
+		"message": "S'il vous plaît insérer votre mot de passe pour le déverrouiller."
+	},
+	"enter": {
+		"message": "Déverrouillez"
+	},
+	"logout": {
+		"message": "Déconnexion"
+	},
+	"password_changed": {
+		"message": "Mot de passe changé!"
+	},
+	"passwords_no_match": {
+		"message": "Les mots de passe ne correspondent pas!"
+	},
+	"nomatch": {
+		"message": "Aucune correspondance"
+	},
+	"wrongpassword": {
+		"message": "Mot de passe incorrect!"
+	},
+	"hint": {
+		"message": "Allusion"
+	},
+	"hintuse1": {
+		"message": "Faites un clic droit sur ​​une page pour ajouter aux favoris privées"
+	},
+	"hintuse2": {
+		"message": "Glissez et déposez les signets pour les réorganiser"
+	},
+	"deletebookmark": {
+		"message": "Supprimer le favori"
+	},
+	"deletebookmarks": {
+		"message": "Supprimer le favories"
+	},
+	"open": {
+		"message": "Ouvrir un signet dans une nouvelle fenêtre"
+	},
+	"openincognito": {
+		"message": "Ouvrez signet en mode incognito"
+	},
+	"addbookmark": {
+		"message": "Ajouter aux favoris privées"
+	},
+	"optionstitle": {
+		"message": "Options d' | Private Bookmarks"
+	},
+	"warningtitle": {
+		"message": "Avertissement!"
+	},
+	"warningmsg": {
+		"message": "Merci de vous connecter avant d'essayer de modifier les paramètres."
+	},
+	"bookmarks": {
+		"message": "Signets"
+	},
+	"security": {
+		"message": "Sécurité"
+	},
+	"settings": {
+		"message": "Réglages"
+	},
+	"backup": {
+		"message": "Sauvegarde"
+	},
+	"initbackuphelp": {
+		"message": "Copiez le bloc de texte sur la gauche pour effectuer une sauvegarde complète de tous vos marque-pages privées et les stocker dans un endroit sûr. Les données sont cryptées en utilisant votre mot de passe actuel et vous en aurez besoin pour restaurer la sauvegarde."
+	},
+	"restore": {
+		"message": "Restaurer"
+	},
+	"initrestore": {
+		"message": "Restaurer"
+	},
+	"initrestorehelp": {
+		"message": "Collez le bloc de texte que vous avez lorsque vous avez effectué la sauvegarde d'importer toutes vos données de signets privées. Après cela, tapez le mot de passe associé et cliquez sur \"Restaurer\". Remarque: Vous ne perdrez pas vos signets actuels."
+	},
+	"errorrestoretitle": {
+		"message": "Erreur!"
+	},
+	"errorrestoremsg": {
+		"message": "Quelque chose s'est mal passé lors de la restauration de votre sauvegarde. Est-ce le même texte que vous avez copié? S'il vous plaît essayer de nouveau et si le problème persiste, signalez-le moi."
+	},
+	"successrestoretitle": {
+		"message": "Succès!"
+	},
+	"successrestoremsg": {
+		"message": "Vous avez restauré avec succès toutes vos données. Continuer à profiter Favoris privées."
+	},
+	"selectall": {
+		"message": "Sélectionner tous"
+	},
+	"invertselection": {
+		"message": "Inverser la sélection"
+	},
+	"askreset": {
+		"message": "Etes-vous sûr de vouloir effectuer réinitialisation complète?"
+	},
+	"resetbtn": {
+		"message": "Enlever l'extension"
+	},
+	"resetwarning": {
+		"message": "Cette opération va supprimer toutes vos informations (signets, mot de passe et les paramètres). ATTENTION, cette action est irréversible!"
+	},
+	"support": {
+		"message": "Soutenir"
+	},
+	"name": {
+		"message": "Nom"
+	},
+	"url": {
+		"message": "URL"
+	},
+	"actions": {
+		"message": "Actions"
+	},
+	"delete": {
+		"message": "Supprimer"
+	},
+	"edit": {
+		"message": "Éditer"
+	},
+	"save": {
+		"message": "Sauver"
+	},
+	"cancel": {
+		"message": "Résilier"
+	},
+	"closetab": {
+		"message": "Fermez la languette après l'ajout de signets privés"
+	},
+	"keyboardshortcut": {
+		"message": "Raccourci clavier"
+	},
+	"supportintroduction": {
+		"message": "Bonjour! Mon nom est João Magalhães et je suis un portugais de 22 ans et développeur web et Android. J'aime construire des choses pour le web, mais je suis juste un étudiant pour l'instant. Si vous pouviez m'aider d'une certaine façon, je serais très apprécié."
+	},
+	"supportsuggest": {
+		"message": "Vous pouvez même proposer vos propres fonctions pour Private Bookmarks :-)"
+	},
+	"supporthelp": {
+		"message": "Aider le développeur"
+	}
+}
