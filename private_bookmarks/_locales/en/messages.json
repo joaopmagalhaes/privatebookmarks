@@ -1,0 +1,176 @@
+{
+	"extName": {
+		"message": "Private Bookmarks"
+	},
+	"extDesc": {
+		"message": "Save your websites, where no one can see them!"
+	},
+	"welcome": {
+		"message": "Welcome to your private bookmarks"
+	},
+	"hintstart": {
+		"message": "Please, choose a password to start using Private Bookmarks."
+	},
+	"password": {
+		"message": "Password"
+	},
+	"confirmpassword": {
+		"message": "Confirm password"
+	},
+	"newpassword": {
+		"message": "New password"
+	},
+	"currentpassword": {
+		"message": "Current password"
+	},
+	"submit": {
+		"message": "Submit"
+	},
+	"hintlogin": {
+		"message": "Please insert your password to unlock."
+	},
+	"enter": {
+		"message": "Unlock"
+	},
+	"logout": {
+		"message": "Logout"
+	},
+	"password_changed": {
+		"message": "Password changed!"
+	},
+	"passwords_no_match": {
+		"message": "Passwords don't match!"
+	},
+	"nomatch": {
+		"message": "No match"
+	},
+	"wrongpassword": {
+		"message": "Incorrect password!"
+	},
+	"hint": {
+		"message": "Hint"
+	},
+	"hintuse1": {
+		"message": "Right click on a page to add to private bookmarks"
+	},
+	"hintuse2": {
+		"message": "Drag & drop the bookmarks to reorder them"
+	},
+	"deletebookmark": {
+		"message": "Delete bookmark"
+	},
+	"deletebookmarks": {
+		"message": "Delete bookmarks"
+	},
+	"open": {
+		"message": "Open bookmark in a new window"
+	},
+	"openincognito": {
+		"message": "Open bookmark in incognito mode"
+	},
+	"addbookmark": {
+		"message": "Add to private bookmarks"
+	},
+	"optionstitle": {
+		"message": "Options | Private Bookmarks"
+	},
+	"warningtitle": {
+		"message": "Warning!"
+	},
+	"warningmsg": {
+		"message": "Please, login before trying to change any settings."
+	},
+	"bookmarks": {
+		"message": "Bookmarks"
+	},
+	"security": {
+		"message": "Security"
+	},
+	"settings": {
+		"message": "Settings"
+	},
+	"backup": {
+		"message": "Backup"
+	},
+	"initbackuphelp": {
+		"message": "Copy the block of text on the left to perform a full backup of all your Private Bookmarks and store them somewhere safe. Data is encrypted using your current password and you'll need it to restore the backup."
+	},
+	"restore": {
+		"message": "Restore"
+	},
+	"initrestore": {
+		"message": "Restore"
+	},
+	"initrestorehelp": {
+		"message": "Paste the block of text you got when you performed the backup to import all your data from Private Bookmarks. After that, type the associated password and click \"Restore\". Note: You will not lose your current bookmarks."
+	},
+	"errorrestoretitle": {
+		"message": "Error!"
+	},
+	"errorrestoremsg": {
+		"message": "Something went wrong while restoring your backup. Is it the same text you copied? Please try again and if the problem persists, report it to me."
+	},
+	"successrestoretitle": {
+		"message": "Success!"
+	},
+	"successrestoremsg": {
+		"message": "You successfully restored all your data. Keep enjoying Private Bookmarks."
+	},
+	"selectall": {
+		"message": "Select all"
+	},
+	"invertselection": {
+		"message": "Invert selection"
+	},
+	"askreset": {
+		"message": "Are you sure you want to perform full reset?"
+	},
+	"resetbtn": {
+		"message": "Reset extension"
+	},
+	"resetwarning": {
+		"message": "This will delete all your information (bookmarks, password and settings). BE CAREFUL, this action is irreversible!"
+	},
+	"support": {
+		"message": "Support"
+	},
+	"name": {
+		"message": "Name"
+	},
+	"url": {
+		"message": "URL"
+	},
+	"actions": {
+		"message": "Actions"
+	},
+	"delete": {
+		"message": "Delete"
+	},
+	"edit": {
+		"message": "Edit"
+	},
+	"save": {
+		"message": "Save"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
+	"closetab": {
+		"message": "Close tab after adding to private bookmarks"
+	},
+	"keyboardshortcut": {
+		"message": "Keyboard shortcut"
+	},
+	"supportintroduction": {
+		"message": "Hello! My name is João Magalhães and I'm a 22-year old portuguese web and android developer. I love building stuff for the web but I'm just a student for now. If you could help me in some way, I would be very much appreciated."
+	},
+	"supportsuggest": {
+		"message": "You can even suggest your own features for Private Bookmarks :-)"
+	},
+	"supporthelp": {
+		"message": "Help the developer"
+	},
+	"reportbug": {
+		"message": "Report a bug or ask for help"
+	}
+}
